@@ -1,0 +1,31 @@
+
+body{
+    font-family: 'Varela Round';
+    font-style: normal;
+    font-weight: 400; 
+    background-image: url("../styles/bg.png");
+    background-attachment: fixed;
+}
+.main{
+    margin: 12%;
+    align-items: center;
+    text-align: center;
+}
+
+h1{
+    font-size: xx-large !important;
+}
+.section{
+    background-image: url("bg.png");
+    margin: 12px 12px
+}
+
+a:visited {
+    text-decoration: none;
+  }
+  
+
+.sublinks{
+    font-family: sans-serif;
+    text-decoration: none;
+}
